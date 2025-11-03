@@ -41,7 +41,7 @@ contact-form-frontend/ ├─ public/ │ └─ index.html ├─ src/ │ ├�
 
 ## 4.Step-by-step setup
 
-    1.Create a new React app (Vite, Create React App, or your preferred tooling). Example using Vite: npm create vite@latest contact-form-frontend --template react cd contact-form-frontend npm install
+   1.Create a new React app (Vite, Create React App, or your preferred tooling). Example using Vite: npm create vite@latest contact-form-frontend --template react cd contact-form-frontend npm install.
 
    2.Create the component folder and files: src/components/ContactForm.jsx and src/styles/contact-form.css.
 
